@@ -1,10 +1,10 @@
 
 ### Hi there 👋
-🔭 I’m currently working on flutter
-🌱 I’m currently learning flutter
-👯 I’m looking to collaborate on flutter
-🤔 I’m looking for help with flutter
-💬 Ask me about flutter
+🔭 I’m currently working on MERN
+🌱 I’m currently learning MERN
+👯 I’m looking to collaborate on MERN
+🤔 I’m looking for help with MERN
+💬 Ask me about MERN
 📫 How to reach me: prats.dce@gmail.com
 😄 Pronouns: He
 ⚡ Fun fact: I dont hide anything from anyone.
