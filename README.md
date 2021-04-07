@@ -1,13 +1,12 @@
 
 ### Hi there 👋
-🔭 I’m currently working on MERN
-🌱 I’m currently learning MERN
-👯 I’m looking to collaborate on MERN
-🤔 I’m looking for help with MERN
-💬 Ask me about MERN
+🔭 I’m currently working on Javascript
+🌱 I’m currently learning Javascript
+👯 I’m looking to collaborate on Javascript
+🤔 I’m looking for help with Javascript
+💬 Ask me about Javascript
 📫 How to reach me: prats.dce@gmail.com
 😄 Pronouns: He
-⚡ Fun fact: I dont hide anything from anyone.
 <!--
 **Pratyuxh/Pratyuxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
