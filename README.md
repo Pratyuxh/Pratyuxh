@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-<!--
-**Pratyuxh/Pratyuxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Golang, Springboot
+- 🌱 I’m currently learning Golang
+- 👯 I’m looking to collaborate on Golang, Springboot
+- 🤔 I’m looking for help with DSA
+- 💬 Ask me about Projects
+- 📫 How to reach me: prats.dce@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I am not what u think I am
 
-- 🔭 I’m currently working on ... Golang, Springboot
-- 🌱 I’m currently learning ... Golang
-- 👯 I’m looking to collaborate on ... Golang, Springboot
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
