@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on Python
+- 🔭 I’m currently working on Springboot
+- 🌱 I’m currently learning Springboot
+- 👯 I’m looking to collaborate on Springboot
 - 🤔 I’m looking for help with DSA, a coding partner / friend
 - 💬 Ask me about Projects
 - 📫 How to reach me: prats.dce@gmail.com
