@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Springboot
-- 🌱 I’m currently learning Springboot
-- 👯 I’m looking to collaborate on Springboot
+- 🔭 I’m currently working on Python scripting
+- 🌱 I’m currently learning Springboot, Angular, Golang
+- 👯 I’m looking to collaborate on Springboot, Golang, Angular
 
 
 
