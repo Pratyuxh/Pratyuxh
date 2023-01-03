@@ -7,15 +7,13 @@
 
 - 🌱 I’m currently learning **Golang, ReactJS**
 
-- 👯 I’m looking to collaborate on [Golang](https://github.com/Pratyuxh/blog-api-demo)
+- 👯 I’m looking to collaborate on [Springboot](https://github.com/Pratyuxh/blog-api-demo)
 
-- 🤝 I’m looking for help with [Golang](https://github.com/Pratyuxh/blog-api-demo)
+- 🤝 I’m looking for help with [Springboot](https://github.com/Pratyuxh/blog-api-demo)
 
-- 💬 Ask me about **Core Java,Springboot, Python**
+- 💬 Ask me about **Core Java, Springboot, Python**
 
 - 📫 How to reach me **pratyuxhsharma@gmail.com**
-
-- ⚡ Fun fact **Founder at Curiosity, BingeCoders, Social Slambook, Saroj Labs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
