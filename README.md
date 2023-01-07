@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/pratyuxhsharma" target="blank"><img src="https://img.shields.io/twitter/follow/pratyuxhsharma?logo=twitter&style=for-the-badge" alt="pratyuxhsharma" /></a> </p>
 
-- 🔭 I’m currently working on [Springboot](https://github.com/Pratyuxh/blog-api-demo)
+- 🔭 I’m currently working on [Golang](https://github.com/Pratyuxh/blog-api-demo)
 
 - 🌱 I’m currently learning **Golang, ReactJS**
 
-- 👯 I’m looking to collaborate on [Springboot](https://github.com/Pratyuxh/blog-api-demo)
+- 👯 I’m looking to collaborate on [Golang](https://github.com/Pratyuxh/blog-api-demo)
 
-- 🤝 I’m looking for help with [Springboot](https://github.com/Pratyuxh/blog-api-demo)
+- 🤝 I’m looking for help with [Golang](https://github.com/Pratyuxh/blog-api-demo)
 
 - 💬 Ask me about **Core Java, Springboot, Python**
 
