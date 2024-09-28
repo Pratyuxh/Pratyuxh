@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Shyam Prasad</h1>
+<h1 align="center">Hi 👋, I'm Pratyush Sharma</h1>
 <h3 align="center">Full Stack Engineer with experience in building end-to-end web applications.</h3>
 <img align="right" width="360" src="https://i.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.webp" alt= "Coding" />
 </p>
