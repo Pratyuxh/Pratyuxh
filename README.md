@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **Node.js, MongoDB, React.js**
+- 💬 Ask me about **Node.js, MongoDB, React.js, Python, Springboot**
 
 - 📫 How to reach me **pratyuxhsharma@gmail.com**
 
