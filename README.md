@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratyuxh&show_icons=true&locale=en" alt="pratyushsharma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratyuxh&" alt="pratyushsharma" /></p>
+
+[![An image of @pratyuxh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratyuxh)](https://holopin.io/@pratyuxh)
