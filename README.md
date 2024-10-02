@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pratyuxh&label=Profile%20views&color=0e75b6&style=flat" alt="Pratyuxh" /> </p>
 </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **Node.js, MongoDB, React.js, Python, Springboot**
 
