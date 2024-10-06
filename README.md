@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pratyuxhsharma@gmail.com**
 
-- Visit me at **pratyuxh.github.io/**
+- Visit me at **[pratyuxh.github.io/](https://pratyuxh.github.io/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
