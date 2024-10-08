@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **NodeJS, ReactJS, Python, Springboot, Data Science**
+- 💬 Ask me about **NodeJS, ReactJS, Python, Springboot, Data Science, Data Engineering**
 
 - 📫 How to reach me **pratyuxhsharma@gmail.com**
 
