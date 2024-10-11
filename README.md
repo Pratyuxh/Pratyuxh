@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **pratyuxhsharma@gmail.com**
 
-- Visit me at **[pratyuxh.github.io/](https://pratyuxh.github.io/)**
+- 💞️ Visit me at **[pratyuxh.github.io/](https://pratyuxh.github.io/)**
 
-- Current Hands-on: Python, Django, MERN, SQL, MySQL, MongoDB
+- 👀 Current Hands-on: Python, Django, MERN, SQL, MySQL, MongoDB
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
