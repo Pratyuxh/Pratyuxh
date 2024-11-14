@@ -7,15 +7,13 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **NodeJS, ReactJS, Python, Springboot, Data Science, Data Engineering**
+- 💬 Ask me about **NodeJS, Python, Data Science**
 
 - 📫 How to reach me **pratyuxhsharma@gmail.com**
 
 - 💞️ Visit me at **[pratyuxh.github.io/](https://pratyuxh.github.io/)**
 
 - 👀 Current Hands-on: Python, Django, MERN, SQL, MySQL, MongoDB
-
-- 👨🏻‍💻 Participating in **Hacktoberfest** since 2017
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
