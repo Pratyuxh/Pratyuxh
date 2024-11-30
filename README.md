@@ -5,15 +5,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pratyuxh&label=Profile%20views&color=0e75b6&style=flat" alt="Pratyuxh" /> </p>
 <p align="left"> <a href="https://twitter.com/prxtyushsharma" target="blank"><img src="https://img.shields.io/twitter/follow/prxtyushsharma?logo=twitter&style=for-the-badge" alt="prxtyushsharma" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **NodeJS, Python, Data Science**
+- 💬 Ask me about **NodeJS, ReactJS, Python, Data Science**
 
 - 📫 How to reach me **pratyuxhsharma@gmail.com**
 
 - 💞️ Visit me at **[pratyuxh.github.io/](https://pratyuxh.github.io/)**
 
-- 👀 Current Hands-on: Python, Django, MERN, SQL, MySQL, MongoDB
+- 👀 Current Hands-on: Golang, Python, Django, MERN, SQL, MySQL, MongoDB
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
