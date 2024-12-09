@@ -13,7 +13,7 @@
 
 - 💞️ Visit me at **[pratyuxh.github.io/](https://pratyuxh.github.io/)**
 
-- 👀 Current Hands-on: Golang, Python, Django, MERN, SQL, MySQL, MongoDB
+- 👀 Current Hands-on: Golang, Python, MERN, SQL, MySQL
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
