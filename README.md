@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **NodeJS, ReactJS, Python, Data Science**
+- 💬 Ask me about **MERN, Python, Django, Data Science**
 
 - 📫 How to reach me **pratyuxhsharma@gmail.com**
 
 - 💞️ Visit me at **[pratyuxh.github.io/](https://pratyuxh.github.io/)**
 
-- 👀 Current Hands-on: Golang, Python, MERN, SQL, MySQL
+- 👀 Current Hands-on: Golang, Python, MERN, SQL
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
