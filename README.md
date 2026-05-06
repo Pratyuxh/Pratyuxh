@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pratyush Sharma</h1>
-<h3 align="center">Full Stack Engineer with experience in building end-to-end web applications and Backend Systems.</h3>
+<h3 align="center">Full Stack Engineer with experience in building end-to-end web applications.</h3>
 <img align="right" width="360" src="https://i.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.webp" alt= "Coding" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pratyuxh&label=Profile%20views&color=0e75b6&style=flat" alt="Pratyuxh" /> </p>
 <p align="left"> <a href="https://twitter.com/prxtyushsharma" target="blank"><img src="https://img.shields.io/twitter/follow/prxtyushsharma?logo=twitter&style=for-the-badge" alt="prxtyushsharma" /></a> </p>
@@ -88,9 +88,6 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></td>
   </tr>
 </table>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pratyuxh&show_icons=true&locale=en&layout=compact" alt="pratyushsharma" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratyuxh&show_icons=true&locale=en" alt="pratyushsharma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratyuxh&" alt="pratyushsharma" /></p>
 
