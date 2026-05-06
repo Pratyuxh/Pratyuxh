@@ -89,6 +89,4 @@
   </tr>
 </table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratyuxh&" alt="pratyushsharma" /></p>
-
 [![An image of @pratyuxh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratyuxh)](https://holopin.io/@pratyuxh)
