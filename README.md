@@ -5,13 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pratyuxh&label=Profile%20views&color=0e75b6&style=flat" alt="Pratyuxh" /> </p>
 <p align="left"> <a href="https://twitter.com/prxtyushsharma" target="blank"><img src="https://img.shields.io/twitter/follow/prxtyushsharma?logo=twitter&style=for-the-badge" alt="prxtyushsharma" /></a> </p>
 
-- 💬 Ask me about **MERN, Python, .NET, AI**
+- 💬 Ask me about **MERN, Python**
 
 - 📫 How to reach me **writetopratyushs@gmail.com**
 
 - 💞️ Visit me at **[pratyuxh.github.io/](https://pratyuxh.github.io/)**
 
-- 👀 Current Hands-on: **Python, MERN, SQL**
+- 👀 Current Hands-on: **Python, MERN, .NET**
  
 <h3 align="left">Connect with me:</h3>
 
