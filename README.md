@@ -13,7 +13,7 @@
 
 - 👀 Current Hands-on: **Python, MERN, .NET**
  
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me at:</h3>
 
 <table>
   <tr>
