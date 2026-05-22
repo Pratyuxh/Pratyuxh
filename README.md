@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **writetopratyushs@gmail.com**
 
-- 💞️ Visit me at **[pratyuxh.github.io/](https://pratyuxh.github.io/)**
+- 💞️ Visit me **[pratyuxh.github.io/](https://pratyuxh.github.io/)**
 
 - 👀 Current Hands-on: **Python, MERN, .NET**
  
