@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pratyush Sharma</h1>
-<h3 align="center">Full Stack Engineer with experience in building end-to-end web applications and products.</h3>
+<h3 align="center">Full Stack Engineer with experience in building end-to-end web applications.</h3>
 <img align="right" width="360" src="https://i.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.webp" alt= "Coding" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pratyuxh&label=Profile%20views&color=0e75b6&style=flat" alt="Pratyuxh" /> </p>
 <p align="left"> <a href="https://twitter.com/prxtyushsharma" target="blank"><img src="https://img.shields.io/twitter/follow/prxtyushsharma?logo=twitter&style=for-the-badge" alt="prxtyushsharma" /></a> </p>
